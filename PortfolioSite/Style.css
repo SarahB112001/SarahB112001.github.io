@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Libre+Franklin&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+}
+h1{
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-align:center;
+}
+h2{
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-align:center;
+}
+body{
+  overflow-x: hidden;
+  background-color: #3a4d46;
+  color: #ffffff;
+}
+ul{
+  padding: 15px;
+}
+li{
+  font-family: 'Open Sans Condensed', sans-serif;
+  float: left;
+  padding-right: 30px;
+  font-size: 1.2em;
+  color: #ffffff;
+  list-style-type: none;
+
+}
+li a{
+  color: #ffffff;
+  text-decoration: none;
+}
+li a:hover{
+  color:#03fcb6;
+  transition:0.5s;
+}
+
+#link{
+  color: #ffffff;
+  text-decoration: none;
+}
+#onea{
+  float:left;
+}
+#oneb{
+  float:right;
+}
+#twoa{
+  float:left;
+}
+#twob{
+  float:right;
+}
+p{
+  font-family: 'Libre Franklin', sans-serif;
+}
+.SS1{
+  width: 50%;
+}
+.introbit{
+  background-color: #2b2b2b;
+}
